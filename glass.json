@@ -3,10 +3,6 @@
   "description": "solnce",
   "icons": [
     {
-      "name": "Home broadband",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass/Home broadband.png"
-    },
-    {
       "name": "adobe",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass/adobe.png"
     },
@@ -29,6 +25,10 @@
     {
       "name": "game",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass/game.png"
+    },
+    {
+      "name": "home_broadband",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass/home_broadband.png"
     },
     {
       "name": "max",
