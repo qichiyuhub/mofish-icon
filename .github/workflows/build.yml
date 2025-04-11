@@ -1,4 +1,4 @@
-name: Generate JSON for Icon
+name: Generate JSON for mofish-icon
 
 on:
   push:
@@ -22,8 +22,8 @@ jobs:
       - name: Generate glass.json
         id: generate-glass
         run: |
-          REPO_OWNER=$(echo qljsyph/Icon | cut -d '/' -f 1)
-          REPO_NAME=$(echo qljsyph/Icon | cut -d '/' -f 2)
+          REPO_OWNER=$(echo qljsyph/mofish-icon | cut -d '/' -f 1)
+          REPO_NAME=$(echo qljsyph/mofish-icon | cut -d '/' -f 2)
           declare -a icon_elements
           for file in glass/*; do
             if [ -f "$file" ]; then
@@ -36,7 +36,7 @@ jobs:
           done
           IFS=','
           ICON_ARRAY="[${icon_elements[*]}]"
-          JSON_CONTENT="{\"name\": \"Icon\", \"description\": \"qljsyh\", \"icons\": $ICON_ARRAY}"
+          JSON_CONTENT="{\"name\": \"Icon\", \"description\": \"solnce\", \"icons\": $ICON_ARRAY}"
           echo "${JSON_CONTENT}" | jq '.' > glass.json
           # 对 JSON 内容进行转义
           ESCAPED_JSON=$(jq -Rs '.' glass.json)
@@ -45,8 +45,8 @@ jobs:
       - name: Generate glass2.json
         id: generate-glass2
         run: |
-          REPO_OWNER=$(echo qljsyph/Icon | cut -d '/' -f 1)
-          REPO_NAME=$(echo qljsyph/Icon | cut -d '/' -f 2)
+          REPO_OWNER=$(echo qljsyph/mofish-icon | cut -d '/' -f 1)
+          REPO_NAME=$(echo qljsyph/mofish-icon | cut -d '/' -f 2)
           declare -a icon_elements
           for file in glass2/*; do
             if [ -f "$file" ]; then
@@ -59,7 +59,7 @@ jobs:
           done
           IFS=','
           ICON_ARRAY="[${icon_elements[*]}]"
-          JSON_CONTENT="{\"name\": \"Icon\", \"description\": \"qljsyh\", \"icons\": $ICON_ARRAY}"
+          JSON_CONTENT="{\"name\": \"Icon\", \"description\": \"solnce\", \"icons\": $ICON_ARRAY}"
           echo "${JSON_CONTENT}" | jq '.' > glass2.json
           # 对 JSON 内容进行转义
           ESCAPED_JSON=$(jq -Rs '.' glass2.json)
