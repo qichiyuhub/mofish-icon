@@ -36,7 +36,7 @@ jobs:
           done
           IFS=','
           ICON_ARRAY="[${icon_elements[*]}]"
-          JSON_CONTENT="{\"name\": \"Icon\", \"description\": \"solnce\", \"icons\": $ICON_ARRAY}"
+          JSON_CONTENT="{\"name\": \"solnce摸鱼项目-icon\", \"description\": \"solnce\", \"icons\": $ICON_ARRAY}"
           echo "${JSON_CONTENT}" | jq '.' > glass.json
           # 对 JSON 内容进行转义
           ESCAPED_JSON=$(jq -Rs '.' glass.json)
