@@ -22,8 +22,8 @@ jobs:
       - name: Generate glass.json
         id: generate-glass
         run: |
-          REPO_OWNER=$(echo qljsyph/mofish-icon | cut -d '/' -f 1)
-          REPO_NAME=$(echo qljsyph/mofish-icon | cut -d '/' -f 2)
+          REPO_OWNER=$(echo s0lnce/mofish-icon | cut -d '/' -f 1)
+          REPO_NAME=$(echo s0lnce/mofish-icon | cut -d '/' -f 2)
           declare -a icon_elements
           for file in glass/*; do
             if [ -f "$file" ]; then
@@ -45,8 +45,8 @@ jobs:
       - name: Generate glass2.json
         id: generate-glass2
         run: |
-          REPO_OWNER=$(echo qljsyph/mofish-icon | cut -d '/' -f 1)
-          REPO_NAME=$(echo qljsyph/mofish-icon | cut -d '/' -f 2)
+          REPO_OWNER=$(echo s0lnce/mofish-icon | cut -d '/' -f 1)
+          REPO_NAME=$(echo s0lnce/mofish-icon | cut -d '/' -f 2)
           declare -a icon_elements
           for file in glass2/*; do
             if [ -f "$file" ]; then
