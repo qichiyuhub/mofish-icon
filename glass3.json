@@ -1,0 +1,70 @@
+{
+  "name": "Icon",
+  "description": "solnce",
+  "icons": [
+    {
+      "name": "adobe-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/adobe-circle.png"
+    },
+    {
+      "name": "adobe",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/adobe.png"
+    },
+    {
+      "name": "amazon-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/amazon-circle.png"
+    },
+    {
+      "name": "amazon",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/amazon.png"
+    },
+    {
+      "name": "apple-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/apple-circle.png"
+    },
+    {
+      "name": "apple",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/apple.png"
+    },
+    {
+      "name": "disney-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/disney-circle.png"
+    },
+    {
+      "name": "disney",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/disney.png"
+    },
+    {
+      "name": "max-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/max-circle.png"
+    },
+    {
+      "name": "max",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/max.png"
+    },
+    {
+      "name": "microsoft-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/microsoft-circle.png"
+    },
+    {
+      "name": "microsoft",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/microsoft.png"
+    },
+    {
+      "name": "netflix-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/netflix-circle.png"
+    },
+    {
+      "name": "netflix",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/netflix.png"
+    },
+    {
+      "name": "telegram-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/telegram-circle.png"
+    },
+    {
+      "name": "telegram",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/glass3/telegram.png"
+    }
+  ]
+}
