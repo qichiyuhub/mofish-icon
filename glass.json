@@ -1,0 +1,62 @@
+{
+  "name": "Icon",
+  "description": "solnce",
+  "icons": [
+    {
+      "name": "Home broadband",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/Home broadband.png"
+    },
+    {
+      "name": "adobe",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/adobe.png"
+    },
+    {
+      "name": "amazon",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/amazon.png"
+    },
+    {
+      "name": "apple",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/apple.png"
+    },
+    {
+      "name": "disney",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/disney.png"
+    },
+    {
+      "name": "emby",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/emby.png"
+    },
+    {
+      "name": "game",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/game.png"
+    },
+    {
+      "name": "max",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/max.png"
+    },
+    {
+      "name": "microsoft",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/microsoft.png"
+    },
+    {
+      "name": "netflix",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/netflix.png"
+    },
+    {
+      "name": "select",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/select.png"
+    },
+    {
+      "name": "social",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/social.png"
+    },
+    {
+      "name": "speedtest",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/speedtest.png"
+    },
+    {
+      "name": "telegram",
+      "url": "https://raw.githubusercontent.com/qljsyph/mofish-icon/main/glass/telegram.png"
+    }
+  ]
+}
