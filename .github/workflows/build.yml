@@ -32,7 +32,6 @@ jobs:
             if [ -f "$file" ]; then
               FILENAME=$(basename "$file")
               NAME="${FILENAME%.png}"
-              # 修正 URL 路径
               URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/Collection/glass/${FILENAME}"
               icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
             fi
@@ -42,7 +41,6 @@ jobs:
             if [ -f "$file" ]; then
               FILENAME=$(basename "$file")
               NAME="${FILENAME%.png}"
-              # 修正 URL 路径
               URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/Collection/glass3/${FILENAME}"
               icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
             fi
@@ -53,7 +51,6 @@ jobs:
             if [ -f "$file" ]; then
               FILENAME=$(basename "$file")
               NAME="${FILENAME%.png}"
-              # 修正 URL 路径
               URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/Collection/pure/${FILENAME}"
               icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
             fi
