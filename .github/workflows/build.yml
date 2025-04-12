@@ -21,9 +21,23 @@ jobs:
         - name: Generate Collection.json
         id: generate-Collection
         run: |
-          REPO_OWNER=$(echo s0lnce/mofish-icon | cut -d '/' -f 1)
-          REPO_NAME=$(echo s0lnce/mofish-icon | cut -d '/' -f 2)
+          REPO_OWNER="${GITHUB_REPOSITORY_OWNER}"
+          REPO_NAME=$(echo "${GITHUB_REPOSITORY}" | cut -d '/' -f 2)
           declare -a icon_elements
+          for folder in Collection/*/; do
+            if [ -d "$folder" ]; then
+              for file in "$folder"*.png; do
+                if [ -f "$file" ]; then
+                  FILENAME=$(basename "$file")
+                  FOLDERNAME=$(basename "$(dirname "$file")")
+                  # Remove .png extension
+                  NAME="${FILENAME%.png}"
+                  URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/Collection/${FOLDERNAME}/${FILENAME}"
+                  icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
+                fi
+              done
+            fi
+          done
           for file in Collection/*; do
             if [ -f "$file" ]; then
               FILENAME=$(basename "$file")
