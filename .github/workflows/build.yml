@@ -1,9 +1,11 @@
-name: Generate JSON for mofish-icon
+name: Generate JSON for combined.json
 
 on:
   push:
     paths:
-      - 'Collection/**'
+      - 'Collection/glass/**'
+      - 'Collection/glass3/**'
+      - 'Collection/pure/**'
     branches:
       - main
   workflow_dispatch:
@@ -18,45 +20,51 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-        - name: Generate Collection.json
-        id: generate-Collection
+      - name: Generate combined JSON
+        id: generate-combined
         run: |
-          REPO_OWNER="${GITHUB_REPOSITORY_OWNER}"
-          REPO_NAME=$(echo "${GITHUB_REPOSITORY}" | cut -d '/' -f 2)
+          REPO_OWNER=$(echo s0lnce/mofish-icon | cut -d '/' -f 1)
+          REPO_NAME=$(echo s0lnce/mofish-icon | cut -d '/' -f 2)
           declare -a icon_elements
-          for folder in Collection/*/; do
-            if [ -d "$folder" ]; then
-              for file in "$folder"*.png; do
-                if [ -f "$file" ]; then
-                  FILENAME=$(basename "$file")
-                  FOLDERNAME=$(basename "$(dirname "$file")")
-                  # Remove .png extension
-                  NAME="${FILENAME%.png}"
-                  URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/Collection/${FOLDERNAME}/${FILENAME}"
-                  icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
-                fi
-              done
-            fi
-          done
-          for file in Collection/*; do
+          
+          # Process glass folder
+          for file in Collection/glass/*; do
             if [ -f "$file" ]; then
               FILENAME=$(basename "$file")
-              # 去除 .png 后缀
               NAME="${FILENAME%.png}"
-              URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/Collection/${FILENAME}"
+              URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/Collection/glass/${FILENAME}"
               icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
             fi
           done
+          # Process glass3 folder
+          for file in Collection/glass3/*; do
+            if [ -f "$file" ]; then
+              FILENAME=$(basename "$file")
+              NAME="${FILENAME%.png}"
+              URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/Collection/glass3/${FILENAME}"
+              icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
+            fi
+          done
+
+          # Process pure folder
+          for file in Collection/pure/*; do
+            if [ -f "$file" ]; then
+              FILENAME=$(basename "$file")
+              NAME="${FILENAME%.png}"
+              URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/Collection/pure/${FILENAME}"
+              icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
+            fi
+          done
+
           IFS=','
           ICON_ARRAY="[${icon_elements[*]}]"
           JSON_CONTENT="{\"name\": \"solnce摸鱼项目-icon\", \"description\": \"solnce\", \"icons\": $ICON_ARRAY}"
-          echo "${JSON_CONTENT}" | jq '.' > Collection.json
-          # 对 JSON 内容进行转义
-          ESCAPED_JSON=$(jq -Rs '.' Collection.json)
-          echo "Collection_json_content=$ESCAPED_JSON" >> $GITHUB_OUTPUT
+          echo "${JSON_CONTENT}" | jq '.' > combined.json
+          ESCAPED_JSON=$(jq -Rs '.' combined.json)
+          echo "combined_json_content=$ESCAPED_JSON" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update Collection.json with new files"
-          file_pattern: Collection.json    
+          commit_message: "Update combined.json with new files"
+          file_pattern: combined.json   
