@@ -44,5 +44,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update iconcollection.json with new files"
-          file_pattern: iconcollection.json
+          commit_message: "Update collection.json with new files"
+          file_pattern: collection.json
