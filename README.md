@@ -8,5 +8,5 @@ glass2适用圆形限制的场景
 surge
 
 ```bash
-https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/glass.json
+https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/combined.json
 ```
