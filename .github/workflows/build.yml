@@ -3,8 +3,7 @@ name: Generate JSON for mofish-icon
 on:
   push:
     paths:
-      - 'glass/**'
-      - 'glass3/**'
+      - 'Collection/**'
     branches:
       - main
   workflow_dispatch:
@@ -19,54 +18,31 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Generate glass.json
-        id: generate-glass
+      - name: Generate iconcollection.json
+        id: generate-iconcollection
         run: |
           REPO_OWNER=$(echo s0lnce/mofish-icon | cut -d '/' -f 1)
           REPO_NAME=$(echo s0lnce/mofish-icon | cut -d '/' -f 2)
           declare -a icon_elements
-          for file in glass/*; do
+          for file in Collection/*; do
             if [ -f "$file" ]; then
               FILENAME=$(basename "$file")
               # 去除 .png 后缀
               NAME="${FILENAME%.png}"
-              URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/glass/${FILENAME}"
+              URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/Collection/${FILENAME}"
               icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
             fi
           done
           IFS=','
           ICON_ARRAY="[${icon_elements[*]}]"
           JSON_CONTENT="{\"name\": \"solnce摸鱼项目-icon\", \"description\": \"solnce\", \"icons\": $ICON_ARRAY}"
-          echo "${JSON_CONTENT}" | jq '.' > glass.json
+          echo "${JSON_CONTENT}" | jq '.' > iconcollection.json
           # 对 JSON 内容进行转义
-          ESCAPED_JSON=$(jq -Rs '.' glass.json)
-          echo "glass_json_content=$ESCAPED_JSON" >> $GITHUB_OUTPUT
-
-      - name: Generate glass3.json
-        id: generate-glass3
-        run: |
-          REPO_OWNER=$(echo s0lnce/mofish-icon | cut -d '/' -f 1)
-          REPO_NAME=$(echo s0lnce/mofish-icon | cut -d '/' -f 2)
-          declare -a icon_elements
-          for file in glass3/*; do
-            if [ -f "$file" ]; then
-              FILENAME=$(basename "$file")
-              # 去除 .png 后缀
-              NAME="${FILENAME%.png}"
-              URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/glass3/${FILENAME}"
-              icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
-            fi
-          done
-          IFS=','
-          ICON_ARRAY="[${icon_elements[*]}]"
-          JSON_CONTENT="{\"name\": \"solnce摸鱼项目-icon\", \"description\": \"solnce\", \"icons\": $ICON_ARRAY}"
-          echo "${JSON_CONTENT}" | jq '.' > glass3.json
-          # 对 JSON 内容进行转义
-          ESCAPED_JSON=$(jq -Rs '.' glass3.json)
-          echo "glass3_json_content=$ESCAPED_JSON" >> $GITHUB_OUTPUT
+          ESCAPED_JSON=$(jq -Rs '.' iconcollection.json)
+          echo "iconollection_json_content=$ESCAPED_JSON" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update glass.json and glass3.json with new files"
-          file_pattern: glass.json glass3.json    
+          commit_message: "Update iconcollection.json with new files"
+          file_pattern: iconcollection.json
