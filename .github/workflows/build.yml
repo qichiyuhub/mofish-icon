@@ -18,8 +18,8 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-        - name: Generate collection.json
-        id: generate-collection
+        - name: Generate Collection.json
+        id: generate-Collection
         run: |
           REPO_OWNER=$(echo s0lnce/mofish-icon | cut -d '/' -f 1)
           REPO_NAME=$(echo s0lnce/mofish-icon | cut -d '/' -f 2)
@@ -36,13 +36,13 @@ jobs:
           IFS=','
           ICON_ARRAY="[${icon_elements[*]}]"
           JSON_CONTENT="{\"name\": \"solnce摸鱼项目-icon\", \"description\": \"solnce\", \"icons\": $ICON_ARRAY}"
-          echo "${JSON_CONTENT}" | jq '.' > collection.json
+          echo "${JSON_CONTENT}" | jq '.' > Collection.json
           # 对 JSON 内容进行转义
-          ESCAPED_JSON=$(jq -Rs '.' collection.json)
-          echo "collection_json_content=$ESCAPED_JSON" >> $GITHUB_OUTPUT
+          ESCAPED_JSON=$(jq -Rs '.' Collection.json)
+          echo "Collection_json_content=$ESCAPED_JSON" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update collection.json with new files"
-          file_pattern: collection.json
+          commit_message: "Update glass.json and Collection.json with new files"
+          file_pattern: glass.json Collection.json    
