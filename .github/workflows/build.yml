@@ -18,8 +18,8 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Generate iconcollection.json
-        id: generate-iconcollection
+        - name: Generate collection.json
+        id: generate-collection
         run: |
           REPO_OWNER=$(echo s0lnce/mofish-icon | cut -d '/' -f 1)
           REPO_NAME=$(echo s0lnce/mofish-icon | cut -d '/' -f 2)
@@ -36,10 +36,10 @@ jobs:
           IFS=','
           ICON_ARRAY="[${icon_elements[*]}]"
           JSON_CONTENT="{\"name\": \"solnce摸鱼项目-icon\", \"description\": \"solnce\", \"icons\": $ICON_ARRAY}"
-          echo "${JSON_CONTENT}" | jq '.' > iconcollection.json
+          echo "${JSON_CONTENT}" | jq '.' > collection.json
           # 对 JSON 内容进行转义
-          ESCAPED_JSON=$(jq -Rs '.' iconcollection.json)
-          echo "iconollection_json_content=$ESCAPED_JSON" >> $GITHUB_OUTPUT
+          ESCAPED_JSON=$(jq -Rs '.' collection.json)
+          echo "collection_json_content=$ESCAPED_JSON" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
