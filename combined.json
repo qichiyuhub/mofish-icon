@@ -31,6 +31,10 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/emby_glass.png"
     },
     {
+      "name": "final_glass",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/final_glass.png"
+    },
+    {
       "name": "game_glass",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/game_glass.png"
     },
@@ -45,10 +49,6 @@
     {
       "name": "home_broadband_glass",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/home_broadband_glass.png"
-    },
-    {
-      "name": "louwangzhiyu_glass",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/louwangzhiyu_glass.png"
     },
     {
       "name": "max_glass",
@@ -151,6 +151,14 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/emby_glass_pure.png"
     },
     {
+      "name": "final-circle_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/final-circle_glass_pure.png"
+    },
+    {
+      "name": "final_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/final_glass_pure.png"
+    },
+    {
       "name": "game-circle_glass_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/game-circle_glass_pure.png"
     },
@@ -181,14 +189,6 @@
     {
       "name": "home_broadband_glass_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/home_broadband_glass_pure.png"
-    },
-    {
-      "name": "louwangzhiyu-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/louwangzhiyu-circle_glass_pure.png"
-    },
-    {
-      "name": "louwangzhiyu_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/louwangzhiyu_glass_pure.png"
     },
     {
       "name": "max-circle_glass_pure",
@@ -335,6 +335,14 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/emby_pure.png"
     },
     {
+      "name": "final-circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/final-circle_pure.png"
+    },
+    {
+      "name": "final_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/final_pure.png"
+    },
+    {
       "name": "game-circle_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/game-circle_pure.png"
     },
@@ -365,14 +373,6 @@
     {
       "name": "home_broadband_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/home_broadband_pure.png"
-    },
-    {
-      "name": "louwangzhiyu-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/louwangzhiyu-circle_pure.png"
-    },
-    {
-      "name": "louwangzhiyu_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/louwangzhiyu_pure.png"
     },
     {
       "name": "max-circle_pure",
