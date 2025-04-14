@@ -7,6 +7,10 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/adobe_glass.png"
     },
     {
+      "name": "ai_glass",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/ai_glass.png"
+    },
+    {
       "name": "amazon_glass",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/amazon_glass.png"
     },
@@ -43,6 +47,10 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/home_broadband_glass.png"
     },
     {
+      "name": "louwangzhiyu_glass",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/louwangzhiyu_glass.png"
+    },
+    {
       "name": "max_glass",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/max_glass.png"
     },
@@ -75,6 +83,10 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/speedtest_glass.png"
     },
     {
+      "name": "steam_glass",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/steam_glass.png"
+    },
+    {
       "name": "telegram_glass",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/telegram_glass.png"
     },
@@ -89,6 +101,14 @@
     {
       "name": "adobe_glass_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/adobe_glass_pure.png"
+    },
+    {
+      "name": "ai-circle_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/ai-circle_glass_pure.png"
+    },
+    {
+      "name": "ai_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/ai_glass_pure.png"
     },
     {
       "name": "amazon-circle_glass_pure",
@@ -163,6 +183,14 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/home_broadband_glass_pure.png"
     },
     {
+      "name": "louwangzhiyu-circle_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/louwangzhiyu-circle_glass_pure.png"
+    },
+    {
+      "name": "louwangzhiyu_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/louwangzhiyu_glass_pure.png"
+    },
+    {
       "name": "max-circle_glass_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/max-circle_glass_pure.png"
     },
@@ -227,6 +255,14 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/speedtest_glass_pure.png"
     },
     {
+      "name": "steam-circle_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/steam-circle_glass_pure.png"
+    },
+    {
+      "name": "steam_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/steam_glass_pure.png"
+    },
+    {
       "name": "telegram-circle_glass_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/telegram-circle_glass_pure.png"
     },
@@ -249,6 +285,14 @@
     {
       "name": "adobe_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/adobe_pure.png"
+    },
+    {
+      "name": "ai-circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/ai-circle_pure.png"
+    },
+    {
+      "name": "ai_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/ai_pure.png"
     },
     {
       "name": "amazon-circle_pure",
@@ -323,6 +367,14 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/home_broadband_pure.png"
     },
     {
+      "name": "louwangzhiyu-circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/louwangzhiyu-circle_pure.png"
+    },
+    {
+      "name": "louwangzhiyu_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/louwangzhiyu_pure.png"
+    },
+    {
       "name": "max-circle_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/max-circle_pure.png"
     },
@@ -385,6 +437,14 @@
     {
       "name": "speedtest_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/speedtest_pure.png"
+    },
+    {
+      "name": "steam-circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/steam-circle_pure.png"
+    },
+    {
+      "name": "steam_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/steam_pure.png"
     },
     {
       "name": "telegram-circle_pure",
