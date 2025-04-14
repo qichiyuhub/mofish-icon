@@ -31,6 +31,10 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/emby_glass.png"
     },
     {
+      "name": "failover_glass",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/failover_glass.png"
+    },
+    {
       "name": "final_glass",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/final_glass.png"
     },
@@ -149,6 +153,14 @@
     {
       "name": "emby_glass_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/emby_glass_pure.png"
+    },
+    {
+      "name": "failover-circle_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/failover-circle_glass_pure.png"
+    },
+    {
+      "name": "failover_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/failover_glass_pure.png"
     },
     {
       "name": "final-circle_glass_pure",
@@ -335,6 +347,14 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/emby_pure.png"
     },
     {
+      "name": "failover-circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/failover-circle_pure.png"
+    },
+    {
+      "name": "failover_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/failover_pure.png"
+    },
+    {
       "name": "final-circle_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/final-circle_pure.png"
     },
@@ -373,6 +393,22 @@
     {
       "name": "home_broadband_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/home_broadband_pure.png"
+    },
+    {
+      "name": "hongkong-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/hongkong-circle.png"
+    },
+    {
+      "name": "hongkong",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/hongkong.png"
+    },
+    {
+      "name": "japan-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/japan-circle.png"
+    },
+    {
+      "name": "japan",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/japan.png"
     },
     {
       "name": "max-circle_pure",
@@ -423,6 +459,14 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/select_pure.png"
     },
     {
+      "name": "singapore-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/singapore-circle.png"
+    },
+    {
+      "name": "singapore",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/singapore.png"
+    },
+    {
       "name": "social-circle_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/social-circle_pure.png"
     },
@@ -447,12 +491,36 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/steam_pure.png"
     },
     {
+      "name": "taiwan-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/taiwan-circle.png"
+    },
+    {
+      "name": "taiwan",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/taiwan.png"
+    },
+    {
       "name": "telegram-circle_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/telegram-circle_pure.png"
     },
     {
       "name": "telegram_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/telegram_pure.png"
+    },
+    {
+      "name": "uk-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/uk-circle.png"
+    },
+    {
+      "name": "uk",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/uk.png"
+    },
+    {
+      "name": "usa-circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/usa-circle.png"
+    },
+    {
+      "name": "usa",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/usa.png"
     },
     {
       "name": "youtube-circle_pure",
