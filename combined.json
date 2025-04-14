@@ -11,6 +11,10 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/ai_glass.png"
     },
     {
+      "name": "all_glass",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/all_glass.png"
+    },
+    {
       "name": "amazon_glass",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/amazon_glass.png"
     },
@@ -113,6 +117,14 @@
     {
       "name": "ai_glass_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/ai_glass_pure.png"
+    },
+    {
+      "name": "all-circle_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/all-circle_glass_pure.png"
+    },
+    {
+      "name": "all_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/all_glass_pure.png"
     },
     {
       "name": "amazon-circle_glass_pure",
@@ -305,6 +317,14 @@
     {
       "name": "ai_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/ai_pure.png"
+    },
+    {
+      "name": "all-circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/all-circle_pure.png"
+    },
+    {
+      "name": "all_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/all_pure.png"
     },
     {
       "name": "amazon-circle_pure",
