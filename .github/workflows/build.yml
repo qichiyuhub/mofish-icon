@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'surge/glass/**'
-      - 'surge/glass3/**'
+      - 'surge/glass2/**'
       - 'surge/pure/**'
     branches:
       - main
@@ -36,12 +36,12 @@ jobs:
               icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
             fi
           done
-          # Process glass3 folder
-          for file in surge/glass3/*; do
+          # Process glass2 folder
+          for file in surge/glass2/*; do
             if [ -f "$file" ]; then
               FILENAME=$(basename "$file")
               NAME="${FILENAME%.png}"
-              URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/surge/glass3/${FILENAME}"
+              URL="https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/surge/glass2/${FILENAME}"
               icon_elements+=("{\"name\": \"${NAME}\", \"url\": \"${URL}\"}")
             fi
           done
