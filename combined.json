@@ -23,6 +23,10 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/apple_glass.png"
     },
     {
+      "name": "auto_glass",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/auto_glass.png"
+    },
+    {
       "name": "disney_glass",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/disney_glass.png"
     },
@@ -103,448 +107,416 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/youtube_glass.png"
     },
     {
-      "name": "adobe-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/adobe-circle_glass_pure.png"
+      "name": "adobe_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/adobe_glass_circle_pure.png"
     },
     {
       "name": "adobe_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/adobe_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/adobe_glass_pure.png"
     },
     {
-      "name": "ai-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/ai-circle_glass_pure.png"
+      "name": "ai_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/ai_glass_circle_pure.png"
     },
     {
       "name": "ai_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/ai_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/ai_glass_pure.png"
     },
     {
-      "name": "all-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/all-circle_glass_pure.png"
+      "name": "all_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/all_glass_circle_pure.png"
     },
     {
       "name": "all_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/all_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/all_glass_pure.png"
     },
     {
-      "name": "amazon-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/amazon-circle_glass_pure.png"
+      "name": "amazon_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/amazon_glass_circle_pure.png"
     },
     {
       "name": "amazon_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/amazon_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/amazon_glass_pure.png"
     },
     {
-      "name": "apple-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/apple-circle_glass_pure.png"
+      "name": "apple_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/apple_glass_circle_pure.png"
     },
     {
       "name": "apple_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/apple_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/apple_glass_pure.png"
     },
     {
-      "name": "disney-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/disney-circle_glass_pure.png"
+      "name": "auto_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/auto_glass_circle_pure.png"
+    },
+    {
+      "name": "auto_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/auto_glass_pure.png"
+    },
+    {
+      "name": "disney_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/disney_glass_circle_pure.png"
     },
     {
       "name": "disney_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/disney_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/disney_glass_pure.png"
     },
     {
-      "name": "douyin-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/douyin-circle_glass_pure.png"
+      "name": "douyin_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/douyin_glass_circle_pure.png"
     },
     {
       "name": "douyin_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/douyin_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/douyin_glass_pure.png"
     },
     {
-      "name": "emby-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/emby-circle_glass_pure.png"
+      "name": "emby_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/emby_glass_circle_pure.png"
     },
     {
       "name": "emby_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/emby_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/emby_glass_pure.png"
     },
     {
-      "name": "failover-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/failover-circle_glass_pure.png"
+      "name": "failover_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/failover_glass_circle_pure.png"
     },
     {
       "name": "failover_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/failover_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/failover_glass_pure.png"
     },
     {
-      "name": "final-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/final-circle_glass_pure.png"
+      "name": "final_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/final_glass_circle_pure.png"
     },
     {
       "name": "final_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/final_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/final_glass_pure.png"
     },
     {
-      "name": "game-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/game-circle_glass_pure.png"
+      "name": "game_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/game_glass_circle_pure.png"
     },
     {
       "name": "game_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/game_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/game_glass_pure.png"
     },
     {
-      "name": "github-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/github-circle_glass_pure.png"
+      "name": "github_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/github_glass_circle_pure.png"
     },
     {
       "name": "github_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/github_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/github_glass_pure.png"
     },
     {
-      "name": "google-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/google-circle_glass_pure.png"
+      "name": "google_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/google_glass_circle_pure.png"
     },
     {
       "name": "google_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/google_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/google_glass_pure.png"
     },
     {
-      "name": "home_broadband-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/home_broadband-circle_glass_pure.png"
+      "name": "home_broadband_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/home_broadband_glass_circle_pure.png"
     },
     {
       "name": "home_broadband_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/home_broadband_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/home_broadband_glass_pure.png"
     },
     {
-      "name": "max-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/max-circle_glass_pure.png"
+      "name": "max_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/max_glass_circle_pure.png"
     },
     {
       "name": "max_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/max_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/max_glass_pure.png"
     },
     {
-      "name": "microsoft-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/microsoft-circle_glass_pure.png"
+      "name": "microsoft_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/microsoft_glass_circle_pure.png"
     },
     {
       "name": "microsoft_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/microsoft_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/microsoft_glass_pure.png"
     },
     {
-      "name": "netflix-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/netflix-circle_glass_pure.png"
+      "name": "netflix_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/netflix_glass_circle_pure.png"
     },
     {
       "name": "netflix_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/netflix_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/netflix_glass_pure.png"
     },
     {
-      "name": "onedrive-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/onedrive-circle_glass_pure.png"
+      "name": "onedrive_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/onedrive_glass_circle_pure.png"
     },
     {
       "name": "onedrive_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/onedrive_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/onedrive_glass_pure.png"
     },
     {
-      "name": "paypal-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/paypal-circle_glass_pure.png"
+      "name": "paypal_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/paypal_glass_circle_pure.png"
     },
     {
       "name": "paypal_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/paypal_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/paypal_glass_pure.png"
     },
     {
-      "name": "select-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/select-circle_glass_pure.png"
+      "name": "select_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/select_glass_circle_pure.png"
     },
     {
       "name": "select_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/select_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/select_glass_pure.png"
     },
     {
-      "name": "social-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/social-circle_glass_pure.png"
+      "name": "social_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/social_glass_circle_pure.png"
     },
     {
       "name": "social_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/social_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/social_glass_pure.png"
     },
     {
-      "name": "speedtest-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/speedtest-circle_glass_pure.png"
+      "name": "speedtest_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/speedtest_glass_circle_pure.png"
     },
     {
       "name": "speedtest_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/speedtest_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/speedtest_glass_pure.png"
     },
     {
-      "name": "steam-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/steam-circle_glass_pure.png"
+      "name": "steam_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/steam_glass_circle_pure.png"
     },
     {
       "name": "steam_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/steam_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/steam_glass_pure.png"
     },
     {
-      "name": "telegram-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/telegram-circle_glass_pure.png"
+      "name": "telegram_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/telegram_glass_circle_pure.png"
     },
     {
       "name": "telegram_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/telegram_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/telegram_glass_pure.png"
     },
     {
-      "name": "youtube-circle_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/youtube-circle_glass_pure.png"
+      "name": "youtube_glass_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/youtube_glass_circle_pure.png"
     },
     {
       "name": "youtube_glass_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass3/youtube_glass_pure.png"
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/youtube_glass_pure.png"
     },
     {
-      "name": "adobe-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/adobe-circle_pure.png"
+      "name": "adobe_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/adobe_circle_pure.png"
     },
     {
       "name": "adobe_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/adobe_pure.png"
     },
     {
-      "name": "ai-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/ai-circle_pure.png"
+      "name": "ai_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/ai_circle_pure.png"
     },
     {
       "name": "ai_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/ai_pure.png"
     },
     {
-      "name": "all-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/all-circle_pure.png"
+      "name": "all_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/all_circle_pure.png"
     },
     {
       "name": "all_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/all_pure.png"
     },
     {
-      "name": "amazon-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/amazon-circle_pure.png"
+      "name": "amazon_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/amazon_circle_pure.png"
     },
     {
       "name": "amazon_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/amazon_pure.png"
     },
     {
-      "name": "apple-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/apple-circle_pure.png"
+      "name": "apple_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/apple_circle_pure.png"
     },
     {
       "name": "apple_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/apple_pure.png"
     },
     {
-      "name": "disney-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/disney-circle_pure.png"
+      "name": "auto_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/auto_circle_pure.png"
+    },
+    {
+      "name": "auto_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/auto_pure.png"
+    },
+    {
+      "name": "disney_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/disney_circle_pure.png"
     },
     {
       "name": "disney_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/disney_pure.png"
     },
     {
-      "name": "douyin-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/douyin-circle_pure.png"
+      "name": "douyin_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/douyin_circle_pure.png"
     },
     {
       "name": "douyin_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/douyin_pure.png"
     },
     {
-      "name": "emby-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/emby-circle_pure.png"
+      "name": "emby_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/emby_circle_pure.png"
     },
     {
       "name": "emby_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/emby_pure.png"
     },
     {
-      "name": "failover-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/failover-circle_pure.png"
+      "name": "failover_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/failover_circle_pure.png"
     },
     {
       "name": "failover_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/failover_pure.png"
     },
     {
-      "name": "final-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/final-circle_pure.png"
+      "name": "final_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/final_circle_pure.png"
     },
     {
       "name": "final_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/final_pure.png"
     },
     {
-      "name": "game-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/game-circle_pure.png"
+      "name": "game_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/game_circle_pure.png"
     },
     {
       "name": "game_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/game_pure.png"
     },
     {
-      "name": "github-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/github-circle_pure.png"
+      "name": "github_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/github_circle_pure.png"
     },
     {
       "name": "github_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/github_pure.png"
     },
     {
-      "name": "google-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/google-circle_pure.png"
+      "name": "google_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/google_circle_pure.png"
     },
     {
       "name": "google_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/google_pure.png"
     },
     {
-      "name": "home_broadband-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/home_broadband-circle_pure.png"
+      "name": "home_broadband_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/home_broadband_circle_pure.png"
     },
     {
       "name": "home_broadband_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/home_broadband_pure.png"
     },
     {
-      "name": "hongkong-circle",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/hongkong-circle.png"
-    },
-    {
-      "name": "hongkong",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/hongkong.png"
-    },
-    {
-      "name": "japan-circle",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/japan-circle.png"
-    },
-    {
-      "name": "japan",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/japan.png"
-    },
-    {
-      "name": "max-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/max-circle_pure.png"
+      "name": "max_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/max_circle_pure.png"
     },
     {
       "name": "max_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/max_pure.png"
     },
     {
-      "name": "microsoft-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/microsoft-circle_pure.png"
+      "name": "microsoft_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/microsoft_circle_pure.png"
     },
     {
       "name": "microsoft_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/microsoft_pure.png"
     },
     {
-      "name": "netflix-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/netflix-circle_pure.png"
+      "name": "netflix_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/netflix_circle_pure.png"
     },
     {
       "name": "netflix_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/netflix_pure.png"
     },
     {
-      "name": "onedrive-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/onedrive-circle_pure.png"
+      "name": "onedrive_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/onedrive_circle_pure.png"
     },
     {
       "name": "onedrive_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/onedrive_pure.png"
     },
     {
-      "name": "paypal-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/paypal-circle_pure.png"
+      "name": "paypal_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/paypal_circle_pure.png"
     },
     {
       "name": "paypal_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/paypal_pure.png"
     },
     {
-      "name": "select-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/select-circle_pure.png"
+      "name": "select_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/select_circle_pure.png"
     },
     {
       "name": "select_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/select_pure.png"
     },
     {
-      "name": "singapore-circle",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/singapore-circle.png"
-    },
-    {
-      "name": "singapore",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/singapore.png"
-    },
-    {
-      "name": "social-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/social-circle_pure.png"
+      "name": "social_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/social_circle_pure.png"
     },
     {
       "name": "social_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/social_pure.png"
     },
     {
-      "name": "speedtest-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/speedtest-circle_pure.png"
+      "name": "speedtest_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/speedtest_circle_pure.png"
     },
     {
       "name": "speedtest_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/speedtest_pure.png"
     },
     {
-      "name": "steam-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/steam-circle_pure.png"
+      "name": "steam_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/steam_circle_pure.png"
     },
     {
       "name": "steam_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/steam_pure.png"
     },
     {
-      "name": "taiwan-circle",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/taiwan-circle.png"
-    },
-    {
-      "name": "taiwan",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/taiwan.png"
-    },
-    {
-      "name": "telegram-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/telegram-circle_pure.png"
+      "name": "telegram_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/telegram_circle_pure.png"
     },
     {
       "name": "telegram_pure",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/telegram_pure.png"
     },
     {
-      "name": "uk-circle",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/uk-circle.png"
-    },
-    {
-      "name": "uk",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/uk.png"
-    },
-    {
-      "name": "usa-circle",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/usa-circle.png"
-    },
-    {
-      "name": "usa",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/usa.png"
-    },
-    {
-      "name": "youtube-circle_pure",
-      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/youtube-circle_pure.png"
+      "name": "youtube_circle_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/youtube_circle_pure.png"
     },
     {
       "name": "youtube_pure",
