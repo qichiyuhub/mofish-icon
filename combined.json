@@ -71,6 +71,10 @@
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/max_glass.png"
     },
     {
+      "name": "meta_glass",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/meta_glass.png"
+    },
+    {
       "name": "microsoft_glass",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass/microsoft_glass.png"
     },
@@ -245,6 +249,14 @@
     {
       "name": "max_glass_pure_circle",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/max_glass_pure_circle.png"
+    },
+    {
+      "name": "meta_glass_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/meta_glass_pure.png"
+    },
+    {
+      "name": "meta_glass_pure_circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/glass2/meta_glass_pure_circle.png"
     },
     {
       "name": "microsoft_glass_pure",
@@ -461,6 +473,14 @@
     {
       "name": "max_pure_circle",
       "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/max_pure_circle.png"
+    },
+    {
+      "name": "meta_pure",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/meta_pure.png"
+    },
+    {
+      "name": "meta_pure_circle",
+      "url": "https://raw.githubusercontent.com/s0lnce/mofish-icon/main/surge/pure/meta_pure_circle.png"
     },
     {
       "name": "microsoft_pure",
