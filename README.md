@@ -35,6 +35,7 @@ https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/combined.js
 常规圆形和方形在flag目录下
 
 flag/corner
+
 flag/circle
 
 flag/small/normal 显示尺寸相较常规小一点，搭配glass或其他没有方形/圆形底色的异形icon使用
