@@ -52,20 +52,20 @@ https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/combined.js
 <br>
 
 ## 内容清单
-#### 功能
+### 功能
 all | auto | failover | final | home_broadband | select | speedtest | 
 
-#### 软件
+### 软件
 adobe | ai | amazon | apple | github | googe | microsoft | onedrive | telegram | 
 
-#### 流媒体/视频
+### 流媒体/视频
 bahamute | disney | douyin | emby | max | netflix | youtube |
 
-#### 媒体
+### 媒体
 social | meta | 
 
-#### 游戏
+### 游戏
 game | steam | 
 
-#### 付款
+### 付款
 paypal | wallet | 
