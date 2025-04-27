@@ -40,8 +40,7 @@ flag/small/normal 显示尺寸相较常规小一点，搭配glass或其他没有
 
 
 ### 内容清单
-
-####功能
+#### 功能
 all | auto | failover | final | home_broadband | select | speedtest | 
 
 #### 软件
