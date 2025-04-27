@@ -69,7 +69,3 @@ game | steam |
 
 #### 付款
 paypal | wallet | 
-
-
-
-<div> <span onclick="copyToClipboard('http://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/glass/corner/adobe.png')" style="cursor: pointer; color: blue; text-decoration: underline;"> adobe </span> </div> <script> function copyToClipboard(text) { navigator.clipboard.writeText(text).then(() => { alert('Link copied to clipboard!'); }).catch(err => { console.error('Failed to copy: ', err); }); } </script>
