@@ -13,13 +13,21 @@ https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/combined.js
 ### 风格分类
 按风格区分套系。基本每一类都有分两种适用场景，方形 corner ｜ 圆形 circle
 1. glass
+   
    glass/corner
+   
    glass/circle
+   
 3. glass2
+   
    glass2/corner
+   
    glass2/circle
-5. pure
+   
+6. pure
+   
    pure/corner
+   
    pure/circle
 
 
