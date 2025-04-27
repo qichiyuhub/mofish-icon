@@ -69,8 +69,3 @@ game | steam |
 
 ### 付款
 paypal | wallet | 
-
-
-<img src="https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/glass/corner/select.png" width="50" height="50"> select
-
-<div style="display: flex; align-items: center; justify-content: center; width: 100%; margin: 20px 0;"> <img src="https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/glass/corner/select.png" style="width: 50px; height: 50px;"> <span style="margin-left: 10px; font-size: 16px;">select</span> </div>
