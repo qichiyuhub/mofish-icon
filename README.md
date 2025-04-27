@@ -8,6 +8,7 @@
 https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/combined.json
 ```
 
+***
 
 
 ### 风格分类
@@ -40,6 +41,7 @@ flag/circle
 
 flag/small/normal 显示尺寸相较常规小一点，搭配glass或其他没有方形/圆形底色的异形icon使用
 
+***
 
 ### 内容清单
 #### 功能
