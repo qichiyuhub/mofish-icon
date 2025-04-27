@@ -8,7 +8,7 @@
 https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/combined.json
 ```
 
-***
+---
 
 
 
@@ -17,31 +17,31 @@ https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/combined.js
 按风格区分套系。基本每一类都有分两种适用场景，方形 corner ｜ 圆形 circle
 1. glass
    
-   glass/corner
+   [glass/corner](https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/glass/corner)
+
+   [glass/circle](https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/glass/circle)
    
-   glass/circle
+2. glass2
    
-3. glass2
+   [glass2/corner](https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/glass2/corner)
    
-   glass2/corner
+   [glass2/circle](https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/glass2/circle)
    
-   glass2/circle
+3. pure
    
-6. pure
+   [pure/corner](https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/pure/corner)
    
-   pure/corner
-   
-   pure/circle
+   [pure/circle](https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/pure/circle)
 
 
 ### 国旗
 常规圆形和方形在flag目录下
 
-flag/corner
+[flag/corner](https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/flag/corner)
 
-flag/circle
+[flag/circle](https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/flag/circle)
 
-flag/small/normal 显示尺寸相较常规小一点，搭配glass或其他没有方形/圆形底色的异形icon使用
+[flag/small/normal](https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/mihomo/small/normal/flag/circle) 显示尺寸相较常规小一点，搭配glass或其他没有方形/圆形底色的异形icon使用
 
 
 
