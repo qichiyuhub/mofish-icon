@@ -49,6 +49,9 @@ https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/combined.js
 
 [flag/small/corner](https://github.com/s0lnce/mofish-icon/tree/main/mihomo/flag/small/corner) 
 
+hongkong | japan | singapore | south_korea | taiwan | uk | usa
+
+
 <br>
 
 ## 内容清单
