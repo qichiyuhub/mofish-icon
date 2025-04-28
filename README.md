@@ -45,9 +45,9 @@ https://raw.githubusercontent.com/s0lnce/mofish-icon/refs/heads/main/combined.js
 
 显示尺寸相较常规小一点，搭配glass或其他没有方形/圆形底色的异形icon使用
 
-[flag/small/normal/circle](https://github.com/s0lnce/mofish-icon/tree/main/mihomo/flag/small/normal/circle) 
+[flag/small/circle](https://github.com/s0lnce/mofish-icon/tree/main/mihomo/flag/small/circle) 
 
-[flag/small/normal/corner](https://github.com/s0lnce/mofish-icon/tree/main/mihomo/flag/small/normal/corner) 
+[flag/small/corner](https://github.com/s0lnce/mofish-icon/tree/main/mihomo/flag/small/corner) 
 
 <br>
 
